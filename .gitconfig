@@ -1,10 +1,10 @@
 [user]
-	email = ramon.fried@gmail.com
-	name = Ramon Fried
+	email = minkov.al@gmail.com
+	name = Aliza Minkov
 [sendemail]
 	smtpencryption = tls
 	smtpserver = smtp.gmail.com
-	smtpuser = ramon.fried@gmail.com
+	smtpuser = minkov.al@gmail.com
 	smtpserverport = 587
 [color]
 	ui = auto
